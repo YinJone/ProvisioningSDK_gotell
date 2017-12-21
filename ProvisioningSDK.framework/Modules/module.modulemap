@@ -1,0 +1,6 @@
+framework module ProvisioningSDK {
+  umbrella header "ProvisioningSDK.h"
+
+  export *
+  module * { export * }
+}
