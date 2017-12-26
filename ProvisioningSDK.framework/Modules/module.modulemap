@@ -1,6 +1,4 @@
 framework module ProvisioningSDK {
-  umbrella header "ProvisioningSDK.h"
-
-  export *
-  module * { export * }
+    header "ProvisioningSDK-Swift.h"
+    requires objc
 }
